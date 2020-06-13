@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rakshit Nawani SBNRI</string>
+    <string name="loading_data">No data available connect to server and try again</string>
+    <string name="no_internet">No Internet connection Available</string>
+    <string name="description">A task provided by Team SBNRI</string>
+</resources>
